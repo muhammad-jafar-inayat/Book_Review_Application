@@ -49,5 +49,4 @@ This is a Node.js-based Book Review Application that allows users to explore and
 
 ---
 
-## 📁 Project Structure
 
